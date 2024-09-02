@@ -14,9 +14,8 @@ In today's fast-paced business environment, traditional HR management systems of
 1. **Inefficiency in HR Processes:** Manual HR processes are time-consuming and prone to errors. Next-Gen HR automates these tasks, reducing the time and effort required for HR operations.
 2. **Lack of Data-Driven Decision Making:** Traditional systems often lack advanced analytics capabilities. With AI, Next-Gen HR provides predictive insights and data-driven recommendations to support strategic HR decisions.
 3. **Security and Transparency Issues:** HR transactions can be vulnerable to tampering and fraud. Smart contracts ensure that all agreements and transactions are secure, transparent, and immutable.
-4. **Scalability Challenges:** As organizations grow, their HR needs become more complex. Next-Gen HR is scalable, adapting to the evolving needs of businesses of all sizes.
-5. **Manual Attendance and Behaviour Monitoring:** Traditional attendance systems and behaviour analysis methods are often manual and inefficient. Next-Gen HR uses computer vision to automate attendance tracking and analyze employee behaviour, enhancing accuracy and reducing administrative workload.
-6. **Job Matching Inefficiencies:** The semantic search capability ensures that candidates are matched based on the context of their skills and experiences, rather than just keywords, leading to better hiring outcomes.
+4. **Manual Attendance and Behaviour Monitoring:** Traditional attendance systems and behaviour analysis methods are often manual and inefficient. Next-Gen HR uses computer vision to automate attendance tracking and analyze employee behaviour, enhancing accuracy and reducing administrative workload.
+5. **Job Matching Inefficiencies:** The semantic search capability ensures that candidates are matched based on the context of their skills and experiences, rather than just keywords, leading to better hiring outcomes.
 
 
 Below is a general diagram providing insights into the components of the NexHR system:
