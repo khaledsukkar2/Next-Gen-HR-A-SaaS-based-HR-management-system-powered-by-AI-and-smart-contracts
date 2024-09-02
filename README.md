@@ -186,14 +186,18 @@ The system automates the monthly payroll process, ensuring timely and accurate s
 **Condition Verification:** If the conditions are met, the company fetches the company's wallet.
 **Compensation Transfer:** The Employee Compensation Smart Contract transfers the compensation amount to the employee's wallet.
 
-Below activity diagrams for two of the contracts:
-Monthly Payroll Processing Contract Diagram:
-![Monthly Payroll Processing Contract Diagram](Pyaroll.jpg)
+It looks like there might be a typo in the image file name for the Monthly Payroll Processing Contract Diagram. The file name should be "Payroll.jpg" instead of "Pyaroll.jpg". Here’s the corrected version:
 
+```markdown
+Below are activity diagrams for two of the contracts:
 
+**Monthly Payroll Processing Contract Diagram:**
+![Monthly Payroll Processing Contract Diagram](Payroll.jpg)
 
-Salary Raise Contract Diagram:
+**Salary Raise Contract Diagram:**
 ![Salary Raise Contract Diagram](salary_raise_contract.jpg)
+```
+
 
 
 ### Possible Improvements
@@ -204,5 +208,5 @@ While the NexHR system offers a comprehensive and advanced solution for HR manag
 **Integration with External Systems:** Expanding integration capabilities with other enterprise systems such as ERP and CRM for a more unified business process.
 **Mobile Application Development:** Developing a mobile app to provide employees and HR managers with on-the-go access to the system.
 **Advanced Analytics and Reporting:** Introducing more sophisticated analytics tools and customizable reporting features to provide deeper insights into HR metrics.
-**Employee Engagement Tools:** Adding features to boost employee engagement, such as gamification elements and social recognition platforms.
+
 
