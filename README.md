@@ -27,7 +27,7 @@ Below is a general diagram providing insights into the components of the NexHR s
 
 I would like to extend my heartfelt thanks to everyone who contributed to the success of this project. 
 
-Firstly, a big thank you to the HR professionals who provided invaluable insights and information, helping to shape the functionalities and features of the Next-Gen HR system. Your expertise and feedback were crucial in developing a system that truly meets the needs of modern HR management.
+Firstly, a big thank you to the HR professionals who provided invaluable insights and information, helping to shape the functionalities and features of the NexHR system. Your expertise and feedback were crucial in developing a system that truly meets the needs of modern HR management.
 
 I am also deeply grateful to my project supervisor for their guidance, support, and encouragement throughout this journey. Your mentorship has been instrumental in navigating the challenges and achieving the project goals.
 
