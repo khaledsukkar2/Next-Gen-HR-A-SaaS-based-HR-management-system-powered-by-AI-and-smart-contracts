@@ -1,9 +1,9 @@
 # Next-Gen-HR-A-SaaS-based-HR-management-system-powered-by-AI-and-smart-contracts (Graduation Project)
 
-![NexHR Logo](NexHR photo.jpg)
+![NexHR Logo](NexHR.jpg)
 ### Abstract
 
-**NexHR** is a cutting-edge, SaaS-based Human Resource Management System (HRMS) that leverages artificial intelligence (AI) and smart contracts to revolutionize HR operations. This system aims to streamline HR processes, enhance decision-making, and ensure transparency and security in HR transactions. By integrating AI, Next-Gen HR offers advanced analytics, predictive insights, and automated workflows. Specifically, it utilizes computer vision for behaviour analysis and attendance automation, semantic search to compare job descriptions with resumes, and optical character recognition (OCR) for efficient document processing. Smart contracts facilitate secure, tamper-proof agreements and transactions. This project demonstrates the potential of combining AI and blockchain technology to create a more efficient, reliable, and future-ready HR management solution.
+**NexHR** is a cutting-edge, SaaS-based Human Resource Management System (HRMS) that leverages artificial intelligence (AI) and smart contracts to revolutionize HR operations. This system aims to streamline HR processes, enhance decision-making, and ensure transparency and security in HR transactions. By integrating AI, NexHR offers advanced analytics, predictive insights, and automated workflows. Specifically, it utilizes computer vision for behaviour analysis and attendance automation, semantic search to compare job descriptions with resumes, and optical character recognition (OCR) for efficient document processing. Smart contracts facilitate secure, tamper-proof agreements and transactions. This project demonstrates the potential of combining AI and blockchain technology to create a more efficient, reliable, and future-ready HR management solution.
 
 ### Introduction
 
@@ -21,7 +21,7 @@ In today's fast-paced business environment, traditional HR management systems of
 
 Below is a general diagram providing insights into the components of the NexHR system:
 
-![NexHR System Diagram](General Diagram.png)
+![NexHR System Diagram](General.png)
 
 
 ### Acknowledgements
@@ -41,13 +41,13 @@ Now let's deep dive into the System's components:
 
 ### 0- SaaS Subscription
 
-The **SaaS Subscription Model** for Next-Gen HR is designed to provide organizations with flexible and cost-effective access to the HR management system. This model offers several key features and benefits:
+The **SaaS Subscription Model** for NexHR is designed to provide organizations with flexible and cost-effective access to the HR management system. This model offers several key features and benefits:
 
-**Subscription Tiers:** Next-Gen HR offers multiple subscription tiers to cater to the varying needs of different organizations.
+**Subscription Tiers:** NexHR offers multiple subscription tiers to cater to the varying needs of different organizations.
 
 **Cost-Effectiveness:** By adopting a subscription-based model, organizations can avoid the significant upfront costs associated with traditional software purchases. Instead, they pay a predictable, recurring fee that covers all aspects of the service, including maintenance and support.
 
-**Accessibility:** As a cloud-based solution, Next-Gen HR can be accessed from anywhere with an internet connection. This ensures that HR teams and employees can use the system remotely.
+**Accessibility:** As a cloud-based solution, NexHR can be accessed from anywhere with an internet connection. This ensures that HR teams and employees can use the system remotely.
 
 
 Below is a sequence diagram illustrating the flow of the SaaS Subscription System:
@@ -58,7 +58,7 @@ Below is a sequence diagram illustrating the flow of the SaaS Subscription Syste
 
 ### 1- Employees Information System
 
-The **Employees Information System** is a core component of Next-Gen HR, designed to manage and streamline various aspects of employee data and departmental operations. It includes the following key features:
+The **Employees Information System** is a core component of NexHR, designed to manage and streamline various aspects of employee data and departmental operations. It includes the following key features:
 
 **Employee Self-Service:** This feature empowers employees by providing them with direct access to their personal information, payroll details, leave balances, and other HR-related data. Employees can update their information, request leave, and access company policies and documents, reducing the administrative burden on HR staff.
 
@@ -71,7 +71,7 @@ The **Employees Information System** is a core component of Next-Gen HR, designe
 
 ### 2- Recruitment System
 
-The **Recruitment System** within Next-Gen HR is designed to streamline and enhance the hiring process through advanced technologies and automated workflows. This system integrates several key features to ensure efficient and effective recruitment:
+The **Recruitment System** within NexHR is designed to streamline and enhance the hiring process through advanced technologies and automated workflows. This system integrates several key features to ensure efficient and effective recruitment:
 
 **Job Posting and Distribution:** The system allows HR managers to create and job postings within the platform and automate the time for deadline to remove the job posting automaticaly and start the resume screening.
 
@@ -89,7 +89,7 @@ Below is a sequence diagram illustrating the flow of the Recruitment System:
 
 ###  3- Attendance Management System
 
-The **Attendance System** within Next-Gen HR leverages advanced computer vision technology to automate and enhance the accuracy of attendance tracking. This system is designed to provide comprehensive insights and streamline attendance management through several key components:
+The **Attendance System** within NexHR leverages advanced computer vision technology to automate and enhance the accuracy of attendance tracking. This system is designed to provide comprehensive insights and streamline attendance management through several key components:
 
 **Dashboard for Insights:** The system features a user-friendly dashboard that provides real-time insights into attendance data. HR managers and supervisors can easily monitor attendance patterns, identify trends, and generate reports. The dashboard offers visual representations of data, such as charts and graphs, to facilitate quick and informed decision-making.
 
@@ -107,7 +107,7 @@ Below is a sequence diagram illustrating the flow of the  Attendance Management 
 
 ### 4- Leave Management System
 
-The **Leave Management System** within Next-Gen HR is designed to streamline the process of managing employee leave requests and approvals. This system ensures efficiency, transparency, and accuracy in handling various types of leave. Key features of the Leave Management System include:
+The **Leave Management System** within NexHR is designed to streamline the process of managing employee leave requests and approvals. This system ensures efficiency, transparency, and accuracy in handling various types of leave. Key features of the Leave Management System include:
 
 **Leave Request Submission:** Employees can easily submit leave requests through the Eployee self-service system. The user-friendly interface allows employees to specify the type of leave (e.g., vacation, sick leave, personal leave), the duration, and any additional details required.
 
@@ -128,7 +128,7 @@ Below is a sequence diagram illustrating the flow of the  Leave Management Syste
 
 ### 5- Performance Management System
 
-The **Performance Management System** within Next-Gen HR is designed to comprehensively evaluate and enhance employee performance through a structured and data-driven approach. This system integrates several key components to ensure a fair, transparent, and effective performance management process:
+The **Performance Management System** within NexHR is designed to comprehensively evaluate and enhance employee performance through a structured and data-driven approach. This system integrates several key components to ensure a fair, transparent, and effective performance management process:
 
 **Setting Performance Metrics:** Establish clear and measurable performance metrics that align with organizational goals. These metrics serve as the foundation for evaluating employee performance and ensuring consistency in assessments.
 
@@ -156,7 +156,7 @@ Below is a sequence diagram illustrating the flow of the  Performance Management
 
 ### 6- Payroll System Using Smart Contracts
 
-The **Payroll System** within Next-Gen HR leverages smart contracts to automate and secure payroll processing, ensuring accuracy, transparency, and efficiency.
+The **Payroll System** within NexHR leverages smart contracts to automate and secure payroll processing, ensuring accuracy, transparency, and efficiency.
 Smart contracts in the Payroll System automate salary calculations and disbursements, ensuring accuracy and reducing errors. They provide real-time processing, enhancing efficiency and employee satisfaction. The transparency and security of blockchain technology build trust and ensure compliance with legal regulations. Additionally, smart contracts offer cost savings by minimizing administrative overhead and preventing payroll-related discrepancies.
 
 
@@ -196,7 +196,7 @@ Salary Raise Contract Diagram:
 
 ### Possible Improvements
 
-While the Next-Gen HR system offers a comprehensive and advanced solution for HR management, there are always opportunities for further enhancement. Future improvements could include:
+While the NexHR system offers a comprehensive and advanced solution for HR management, there are always opportunities for further enhancement. Future improvements could include:
 
 **Enhanced AI Capabilities:** Continuously improving the AI models for even more accuracy.
 **Integration with External Systems:** Expanding integration capabilities with other enterprise systems such as ERP and CRM for a more unified business process.
