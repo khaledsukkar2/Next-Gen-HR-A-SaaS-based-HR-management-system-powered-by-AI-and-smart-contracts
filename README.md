@@ -186,12 +186,14 @@ The system automates the monthly payroll process, ensuring timely and accurate s
 **Condition Verification:** If the conditions are met, the company fetches the company's wallet.
 **Compensation Transfer:** The Employee Compensation Smart Contract transfers the compensation amount to the employee's wallet.
 
-It looks like there might be a typo in the image file name for the Monthly Payroll Processing Contract Diagram. The file name should be "Payroll.jpg" instead of "Pyaroll.jpg". Here’s the corrected version:
-
 
 **Monthly Payroll Processing Contract Diagram:**
 ![Monthly Payroll Processing Contract Diagram](Payroll.jpg)
 
+
+
+
+and the second contract is the Conditional Salary Raise Contract
 **Salary Raise Contract Diagram:**
 ![Salary Raise Contract Diagram](salary_raise_contract.jpg)
 
