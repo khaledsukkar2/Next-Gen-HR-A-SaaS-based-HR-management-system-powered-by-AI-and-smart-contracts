@@ -188,12 +188,12 @@ The system automates the monthly payroll process, ensuring timely and accurate s
 
 Below activity diagrams for two of the contracts:
 Monthly Payroll Processing Contract Diagram:
-![ Performance Management System Sequence Diagram](Pyaroll.jpg)
+![Monthly Payroll Processing Contract Diagram](Pyaroll.jpg)
 
 
 
 Salary Raise Contract Diagram:
-![ Performance Management System Sequence Diagram](salary_raise_contract.jpg)
+![Salary Raise Contract Diagram](salary_raise_contract.jpg)
 
 
 ### Possible Improvements
