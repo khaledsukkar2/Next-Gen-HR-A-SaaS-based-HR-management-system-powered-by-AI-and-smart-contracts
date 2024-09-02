@@ -199,6 +199,43 @@ and the second contract is the Conditional Salary Raise Contract
 
 
 
+Below are activity diagrams for two of the contracts:
+
+**Monthly Payroll Processing Contract Diagram:**
+![Monthly Payroll Processing Contract Diagram](Payroll.jpg)
+
+**Salary Raise Contract Diagram:**
+![Salary Raise Contract Diagram](salary_raise_contract.jpg)
+
+### Possible Improvements
+
+While the Next-Gen HR system offers a comprehensive and advanced solution for HR management, there are always opportunities for further enhancement. Future improvements could include:
+- Enhanced AI Capabilities: Continuously improving the AI models for even more accurate predictions and insights.
+- Integration with External Systems: Expanding integration capabilities with other enterprise systems such as ERP and CRM for a more unified business process.
+- Mobile Application Development: Developing a mobile app to provide employees and HR managers with on-the-go access to the system.
+- Advanced Analytics and Reporting: Introducing more sophisticated analytics tools and customizable reporting features to provide deeper insights into HR metrics.
+- Employee Engagement Tools: Adding features to boost employee engagement, such as gamification elements and social recognition platforms.
+
+### Acknowledgements
+
+I would like to extend my heartfelt thanks to everyone who contributed to the success of this project.
+
+Firstly, a big thank you to the HR professionals who provided invaluable insights and information, helping to shape the functionalities and features of the Next-Gen HR system. Your expertise and feedback were crucial in developing a system that truly meets the needs of modern HR management.
+
+I am also deeply grateful to my project supervisor for their guidance, support, and encouragement throughout this journey. Your mentorship has been instrumental in navigating the challenges and achieving the project goals.
+
+Lastly, I want to express my appreciation to all my teachers and mentors who have imparted their knowledge and wisdom. Your teachings have laid the foundation for my skills and understanding, enabling me to undertake and complete this project successfully.
+
+Thank you all for your support and contributions.
+
+
+### Project Video
+
+For a detailed walkthrough of the Next-Gen HR system, please watch the following video:
+
+[![Next-Gen HR System Overview](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/jP0av2yZq14)
+
+
 ### Possible Improvements
 
 While the NexHR system offers a comprehensive and advanced solution for HR management, there are always opportunities for further enhancement. Future improvements could include:
