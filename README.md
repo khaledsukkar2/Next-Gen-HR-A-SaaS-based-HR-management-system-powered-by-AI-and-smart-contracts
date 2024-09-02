@@ -188,15 +188,12 @@ The system automates the monthly payroll process, ensuring timely and accurate s
 
 It looks like there might be a typo in the image file name for the Monthly Payroll Processing Contract Diagram. The file name should be "Payroll.jpg" instead of "Pyaroll.jpg". Here’s the corrected version:
 
-```markdown
-Below are activity diagrams for two of the contracts:
 
 **Monthly Payroll Processing Contract Diagram:**
 ![Monthly Payroll Processing Contract Diagram](Payroll.jpg)
 
 **Salary Raise Contract Diagram:**
 ![Salary Raise Contract Diagram](salary_raise_contract.jpg)
-```
 
 
 
